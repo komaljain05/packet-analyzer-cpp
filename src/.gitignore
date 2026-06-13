@@ -1,0 +1,15 @@
+build/
+build-debug/
+
+*.exe
+*.obj
+*.o
+*.dll
+*.pdb
+
+*.pcap
+filtered.pcap
+filtered2.pcap
+filtered3.pcap
+
+.vscode/
