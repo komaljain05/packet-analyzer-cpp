@@ -1,3 +1,0 @@
-C:/Users/DELL/Downloads/Packet_analyzer-main/build/CMakeFiles/packet_analyzer.dir
-C:/Users/DELL/Downloads/Packet_analyzer-main/build/CMakeFiles/edit_cache.dir
-C:/Users/DELL/Downloads/Packet_analyzer-main/build/CMakeFiles/rebuild_cache.dir
